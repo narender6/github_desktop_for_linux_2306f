@@ -1,0 +1,10 @@
+[build-system]
+requires=['setuptools']
+build-backend='setuptools.build_meta'
+[project]
+name='github_desktop_for_linux_2306f'
+version='0.1.0'
+py-modules=['github_desktop_for_linux_2306f']
+dependencies=[]
+[tool.setuptools]
+py-modules=['github_desktop_for_linux_2306f']
